@@ -52,3 +52,8 @@ To recreate this architecture, you have to run:
 To use the sender and receiver scripts, set as input arguments the ip address and port that the entity must use to bind or connect its socket. Considering the previous example:
 - python3 receiver_tcp.py/receiver_udp.py 0.0.0.0 5000
 - python3 sender_tcp.py/sender_udp.py 10.20.0.2 5000
+
+## Copyright
+Copyright ⓒ 2020 David Candal Ventureira dcandal@gti.uvigo.es.
+
+This simulator is licensed under the GNU General Public License, version 3 (GPL-3.0). For more information see LICENSE.txt
